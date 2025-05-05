@@ -6,7 +6,7 @@ jsonwebtoken
 maybe - dotenv -- dotenv loads environment variables from .env into 'process.env' so you can use those environment variables in your code
 
 Glitch link
-https://glitch.com/edit/#!/import/github/YOUR_GITHUB_USERNAME/YOUR_GITHUB_REPO_NAME
+https://glitch.com/edit/#!/import/github/JakobDunlap/Test-Final
 
 Actual MongoDB conn string:
 DATABASE_URI="mongodb+srv://FinalUser:testing123@finalcluster.y7wjlw8.mongodb.net/FinalDB?retryWrites=true&w=majority&appName=FinalCluster"
